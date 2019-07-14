@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5969191b-38f1-4adf-9fa0-df217b75367a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamepadservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/compression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/cors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/ext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/headers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/security.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/streams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/toolkit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/transmit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/lib/validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/lib/charset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/lib/encoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/lib/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/lib/mediatype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/accept/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/ammo/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/ammo/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/ammo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/ammo/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/ammo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/lib/decoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/lib/encoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/b64/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/big-time/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/big-time/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/big-time/lib/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/big-time/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/big-time/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/boom/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/boom/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/boom/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/boom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bounce/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bourne/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bourne/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bourne/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bourne/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/bourne/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/lib/regex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/lib/segment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/call/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox-memory/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox-memory/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox-memory/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox-memory/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox-memory/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/lib/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/lib/pending.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/lib/policy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/catbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/content/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/content/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/content/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/content/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/content/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/cryptiles/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/cryptiles/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/cryptiles/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/cryptiles/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/cryptiles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/heavy/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/heavy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/heavy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/heavy/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/heavy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/lib/deep-equal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/lib/escape.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/hoek/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/iron/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/iron/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/iron/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/iron/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/iron/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/cast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/ref.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/schemas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/alternatives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/any/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/any/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/array/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/binary/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/boolean/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/date/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/func/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/lazy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/number/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/object/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/string/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/string/ip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/string/rfc3986.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/string/uri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/symbol/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/lib/types/symbols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/joi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mime-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mime-db/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mime-db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mime-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mimos/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mimos/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mimos/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mimos/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/mimos/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/nigel/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/nigel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/nigel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/nigel/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/nigel/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/pez/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/pez/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/pez/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/pez/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/pez/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/podium/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/podium/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/podium/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/podium/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/podium/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/lib/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/lib/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/lib/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/lib/symbols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/shot/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/somever/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/statehood/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/statehood/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/statehood/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/statehood/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/statehood/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/statehood/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/subtext/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/subtext/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/subtext/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/subtext/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/subtext/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/subtext/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/teamwork/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/teamwork/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/teamwork/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/teamwork/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/teamwork/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/topo/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/topo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/topo/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/topo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/vise/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/vise/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/vise/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/vise/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/vise/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/lib/payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/lib/recorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/lib/tap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/node_modules/wreck/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/npm-shrinkwrap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hapi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>gameHit</find>
+      <find>.server</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1029" />
+    <option name="y" value="159" />
+    <option name="width" value="631" />
+    <option name="height" value="510" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gamepadService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamepadService" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.4" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5969191b-38f1-4adf-9fa0-df217b75367a" name="Default Changelist" comment="" />
+      <created>1562927796891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562927796891</updated>
+      <workItem from="1562927800047" duration="6500000" />
+      <workItem from="1563010096977" duration="9896000" />
+      <workItem from="1563086946626" duration="1003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16564792" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2150056" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32922733" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gamepadservice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
